@@ -1,7 +1,7 @@
 # Kodiiing
 
 **Kodiiing** merupakan sebuah platform online untuk belajar pemrogramman (_programming_),
-100% gratis, tidak hanya mengedukasi, namun juga membantu setiap orang sebagai _enabler_.
+100% gratis, tidak hanya mengedukasi, namun juga menginspirasi setiap orang.
 
 Ingin belajar pemrogramman bersama Kodiiing? Ditunggu segera, ya!
 
